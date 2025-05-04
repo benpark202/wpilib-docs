@@ -7,6 +7,6 @@
 
 | Software    | Hardware Support |
 | -------- | ------- |
-| Windows 10 or 11  | 64-bit Processors    |
-| macOS Ventura (13.3) | Intel or Apple M1 or higher     |
+| Windows 10 or later  | 64-bit Processors    |
+| macOS Ventura (13.3) or later | Intel or Apple M1 or higher     |
 | Ubuntu 22.04 or 24.04    | 64 bit Proccessors    |
